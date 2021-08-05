@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+}
+.formContainer{
+    height:inherit;
+    display:inherit;
+}
+.label{
+    padding-right: 10px;
+}
+.titleContainer{
+   text-align: center;
+   height:20%;
+}
+.Title{
+    height:20%;
+    width:45%;
+
+}
+.label, .Title{
+    margin-top:5%;
+}
+.messageContainer{
+    text-align: center;
+    height:65%;
+}
+.Message{
+    width:50%;
+    height:89%;
+}
+.ButtonContainer{
+    height:10%;
+}
+.btns{
+    width:70px;
+    height:25px;
+}
+
+
+ 

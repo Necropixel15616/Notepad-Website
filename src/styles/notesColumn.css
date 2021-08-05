@@ -1,0 +1,30 @@
+.btnTitle{
+    color:black;
+    text-decoration: none;
+    
+}
+.btnTitle:hover{
+    color:red;
+}
+.btnDelete{
+    background-color: red;
+    color:#000000;
+    font-weight: bold;
+    align-self: flex-end;
+    width: 30px;
+}
+.listContainer{
+    display:grid;
+    align-items: center;
+}
+.titleListContainer{
+    display:inline-block;
+    justify-content: start;
+    width: 90%;
+}
+.btnContainer{
+    justify-content: end;
+    display:inline-block;
+    width: 10%;
+}
+

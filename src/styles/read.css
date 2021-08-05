@@ -1,0 +1,24 @@
+.ReadContainer{
+    justify-content: center;
+    height: 100%;
+}
+
+.titleBox{
+    height:20%;
+    text-align: center;
+}
+.messageBox{
+    height:60%;
+    text-align: center;
+}
+.btnBox{
+    height:20%;
+    text-align: center;
+}
+.titleBox h2{
+    padding-top: 3%;
+}
+.btnBox Link, .btnBox button{
+    width:60px;
+    margin:1%;
+}
